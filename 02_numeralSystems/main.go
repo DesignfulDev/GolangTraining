@@ -16,4 +16,5 @@ func main() {
 	}
 
 	fmt.Println("Trying to configure SSH keys")
+	fmt.Println("Trying on more time to set SSH keys to work on Git and GitHub")
 }
