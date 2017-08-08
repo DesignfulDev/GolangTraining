@@ -10,4 +10,8 @@ func main() {
 	for i := 1000000; i < 1000100; i++ {
 		fmt.Printf("%d \t %b \t %U \t %#x \t %#o \t %q \n", i, i, i, i, i, i)
 	}
+
+	for i := 0; i < 200; i++ {
+		fmt.Printf("%d \t %b \t %#x \n", i, i, i)
+	}
 }
