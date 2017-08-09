@@ -1,3 +1,3 @@
-package stringutil
+package nameutil
 
 var MyName = "Maurice"
